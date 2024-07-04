@@ -29,6 +29,6 @@ def canUnlockAll(boxes):
             if 0 < key < total_boxes and key not in setofkeys:
                 setofkeys.append(key)
                 counter += 1
-        index++
+        index += 1
 
     return counter == total_boxes - 1
