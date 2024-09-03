@@ -4,7 +4,7 @@ Prime Game
 """
 
 
-def primeNumbers(n):
+def primeNums(n):
     """
     The rturn value of prime numbers
     between 1 and n
